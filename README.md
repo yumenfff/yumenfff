@@ -42,5 +42,5 @@
 <br/>
 <br/>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reprint.duets.0c@icloud.com)](mailto:reprint.duets.0c@icloud.com)
+[![Gmail Badge](https://img.shields.io/badge/Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reprint.duets.0c@icloud.com)](mailto:reprint.duets.0c@icloud.com)
 </div>
