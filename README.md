@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://cdn2.dps.vc/iblock/26d/26d4ec3c62f7733059f21927415cfdf9/9212dd309a305632eed8bff8a8d3b4ac.jpg" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/1200x/b8/3c/15/b83c1526b9114b42af0d75a526976658.jpg" align="center" style="width: 100%"/>
 
 <br/>
 
