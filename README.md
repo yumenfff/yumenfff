@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/29/bc/2e/29bc2e44e8c5f0c215f4a206c1550a45.jpg" align="center" style="width: 100%"/>
+<img src="https://i.pinimg.com/originals/29/bc/2e/29bc2e44e8c5f0c215f4a206c1550a45.gif" align="center" style="width: 100%"/>
 
 <br/>
 
