@@ -13,8 +13,8 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/29/bc/2e/29bc2e44e8c5f0c215f4a206c1550a45.gif" align="center" style="width: 100%"/>
-
+<!-- <img src="https://i.pinimg.com/originals/29/bc/2e/29bc2e44e8c5f0c215f4a206c1550a45.gif" align="center" style="width: 100%"/> -->
+<img src="https://psv4.vkuserphoto.ru/s/v1/d2/PuRiww53V9snZ4v0ZUKR2HiXeGJLSdCX0SctHaUhYlCsruV_g-02vpP_xQf_xIq7g7UgKIRgCdXYyybujQoSn-v8mipmj3Mkg2UShMQZxb8Biettar4YfTFycE8xFYHqKcPpEFPG13k-/Screenshot_2026-07-22_at_04_13_35.png" align="center" style="width: 100%"/>
 <br/>
 
 ## Stats
